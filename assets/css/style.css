@@ -24,10 +24,11 @@ header {
     color: #d9dcd6;
 }
 
-/* Changed from .header div to nav */
-nav { 
-    padding-top: 15px;
+/* Changed from .header div to nav. Added margin top to align the nav with header better */
+nav {
+    padding-top: 0px;
     margin-right: 20px;
+    margin-top: -30px;
     float: right;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
